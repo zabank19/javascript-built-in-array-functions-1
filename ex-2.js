@@ -1,9 +1,9 @@
-let numbers = [1, 2, 3, 4, 5];
+let words = ["apple", "cat", "dog", "elephant"];
 
-function getEvenNumbers(numbers) {
+function get5CharWords(words) {
   // Start coding here
 }
 
-const result = getEvenNumbers(numbers);
+const result = get5CharWords(words);
 
-console.log(result); // Output: [2, 4]
+console.log(result); // Output: ["apple", "elephant"]
